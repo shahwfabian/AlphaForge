@@ -1,0 +1,60 @@
+# Version control
+.git/
+.gitignore
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments (never ship into image)
+.venv/
+venv/
+env/
+ENV/
+
+# Data files (mounted as volumes in production)
+data/raw/
+data/processed/
+data/*.db
+
+# Export CSVs
+exports/
+
+# Development tools
+.vscode/
+.idea/
+.pytest_cache/
+.coverage
+htmlcov/
+*.coveragerc
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Secrets (never commit)
+.env
+*.env
+.streamlit/secrets.toml
+
+# Logs
+*.log
+
+# Large files
+*.parquet
+*.csv
+*.h5
+*.pkl

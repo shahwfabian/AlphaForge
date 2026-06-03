@@ -1,0 +1,389 @@
+symbol,name,asset_type,exchange,sector,currency
+SPY,SPDR S&P 500 ETF Trust,Index ETF,NYSEARCA,Broad Market,USD
+IVV,iShares Core S&P 500 ETF,Index ETF,NYSEARCA,Broad Market,USD
+VOO,Vanguard S&P 500 ETF,Index ETF,NYSEARCA,Broad Market,USD
+QQQ,Invesco QQQ Trust,Index ETF,NASDAQ,Technology,USD
+VTI,Vanguard Total Stock Market ETF,Index ETF,NYSEARCA,Broad Market,USD
+ITOT,iShares Core S&P Total U.S. Stock Market ETF,Index ETF,NYSEARCA,Broad Market,USD
+SCHB,Schwab U.S. Broad Market ETF,Index ETF,NYSEARCA,Broad Market,USD
+IWM,iShares Russell 2000 ETF,Index ETF,NYSEARCA,Small Cap,USD
+MDY,SPDR S&P MidCap 400 ETF,Index ETF,NYSEARCA,Mid Cap,USD
+IJR,iShares Core S&P Small-Cap ETF,Index ETF,NYSEARCA,Small Cap,USD
+DIA,SPDR Dow Jones Industrial Average ETF,Index ETF,NYSEARCA,Broad Market,USD
+RSP,Invesco S&P 500 Equal Weight ETF,Index ETF,NYSEARCA,Broad Market,USD
+OEF,iShares S&P 100 ETF,Index ETF,NYSEARCA,Broad Market,USD
+VEA,Vanguard FTSE Developed Markets ETF,Index ETF,NYSEARCA,International,USD
+VWO,Vanguard FTSE Emerging Markets ETF,Index ETF,NYSEARCA,Emerging Markets,USD
+EFA,iShares MSCI EAFE ETF,Index ETF,NYSEARCA,International,USD
+EEM,iShares MSCI Emerging Markets ETF,Index ETF,NYSEARCA,Emerging Markets,USD
+ACWI,iShares MSCI ACWI ETF,Index ETF,NASDAQ,Broad Market,USD
+VT,Vanguard Total World Stock ETF,Index ETF,NYSEARCA,Broad Market,USD
+IWB,iShares Russell 1000 ETF,Index ETF,NYSEARCA,Large Cap,USD
+IWD,iShares Russell 1000 Value ETF,Index ETF,NYSEARCA,Value,USD
+IWF,iShares Russell 1000 Growth ETF,Index ETF,NYSEARCA,Growth,USD
+IWO,iShares Russell 2000 Growth ETF,Index ETF,NYSEARCA,Small Cap Growth,USD
+IWN,iShares Russell 2000 Value ETF,Index ETF,NYSEARCA,Small Cap Value,USD
+VB,Vanguard Small-Cap ETF,Index ETF,NYSEARCA,Small Cap,USD
+VO,Vanguard Mid-Cap ETF,Index ETF,NYSEARCA,Mid Cap,USD
+VV,Vanguard Large-Cap ETF,Index ETF,NYSEARCA,Large Cap,USD
+SCHX,Schwab U.S. Large-Cap ETF,Index ETF,NYSEARCA,Large Cap,USD
+SCHA,Schwab U.S. Small-Cap ETF,Index ETF,NYSEARCA,Small Cap,USD
+XLK,Technology Select Sector SPDR Fund,Sector ETF,NYSEARCA,Technology,USD
+XLF,Financial Select Sector SPDR Fund,Sector ETF,NYSEARCA,Financials,USD
+XLV,Health Care Select Sector SPDR Fund,Sector ETF,NYSEARCA,Health Care,USD
+XLY,Consumer Discretionary Select Sector SPDR Fund,Sector ETF,NYSEARCA,Consumer Discretionary,USD
+XLP,Consumer Staples Select Sector SPDR Fund,Sector ETF,NYSEARCA,Consumer Staples,USD
+XLE,Energy Select Sector SPDR Fund,Sector ETF,NYSEARCA,Energy,USD
+XLI,Industrial Select Sector SPDR Fund,Sector ETF,NYSEARCA,Industrials,USD
+XLU,Utilities Select Sector SPDR Fund,Sector ETF,NYSEARCA,Utilities,USD
+XLB,Materials Select Sector SPDR Fund,Sector ETF,NYSEARCA,Materials,USD
+XLC,Communication Services Select Sector SPDR Fund,Sector ETF,NYSEARCA,Communication Services,USD
+XLRE,Real Estate Select Sector SPDR Fund,Sector ETF,NYSEARCA,Real Estate,USD
+XBI,SPDR S&P Biotech ETF,Sector ETF,NYSEARCA,Biotechnology,USD
+IBB,iShares Biotechnology ETF,Sector ETF,NASDAQ,Biotechnology,USD
+SMH,VanEck Semiconductor ETF,Sector ETF,NASDAQ,Semiconductors,USD
+SOXX,iShares Semiconductor ETF,Sector ETF,NASDAQ,Semiconductors,USD
+IGV,iShares Expanded Tech-Software Sector ETF,Sector ETF,NASDAQ,Software,USD
+HACK,ETFMG Prime Cyber Security ETF,Sector ETF,NYSEARCA,Cybersecurity,USD
+CIBR,First Trust Nasdaq Cybersecurity ETF,Sector ETF,NASDAQ,Cybersecurity,USD
+FINX,Global X FinTech ETF,Sector ETF,NASDAQ,FinTech,USD
+KBWB,Invesco KBW Bank ETF,Sector ETF,NASDAQ,Banking,USD
+KRE,SPDR S&P Regional Banking ETF,Sector ETF,NYSEARCA,Regional Banks,USD
+KBE,SPDR S&P Bank ETF,Sector ETF,NYSEARCA,Banking,USD
+JETS,U.S. Global JETS ETF,Sector ETF,NYSEARCA,Airlines,USD
+VNQ,Vanguard Real Estate ETF,Sector ETF,NYSEARCA,Real Estate,USD
+REET,iShares Global REIT ETF,Sector ETF,NYSE,Real Estate,USD
+IYR,iShares U.S. Real Estate ETF,Sector ETF,NYSEARCA,Real Estate,USD
+MOO,VanEck Agribusiness ETF,Sector ETF,NYSEARCA,Agriculture,USD
+XHB,SPDR S&P Homebuilders ETF,Sector ETF,NYSEARCA,Homebuilders,USD
+ITB,iShares U.S. Home Construction ETF,Sector ETF,NYSEARCA,Homebuilders,USD
+XRT,SPDR S&P Retail ETF,Sector ETF,NYSEARCA,Retail,USD
+IHI,iShares U.S. Medical Devices ETF,Sector ETF,NYSEARCA,Medical Devices,USD
+AGG,iShares Core U.S. Aggregate Bond ETF,Bond ETF,NASDAQ,Fixed Income,USD
+BND,Vanguard Total Bond Market ETF,Bond ETF,NASDAQ,Fixed Income,USD
+TLT,iShares 20+ Year Treasury Bond ETF,Bond ETF,NASDAQ,Long-Term Treasury,USD
+IEF,iShares 7-10 Year Treasury Bond ETF,Bond ETF,NASDAQ,Intermediate Treasury,USD
+SHY,iShares 1-3 Year Treasury Bond ETF,Bond ETF,NASDAQ,Short-Term Treasury,USD
+GOVT,iShares U.S. Treasury Bond ETF,Bond ETF,NASDAQ,Treasury,USD
+VGSH,Vanguard Short-Term Treasury ETF,Bond ETF,NASDAQ,Short-Term Treasury,USD
+VGIT,Vanguard Intermediate-Term Treasury ETF,Bond ETF,NASDAQ,Intermediate Treasury,USD
+VGLT,Vanguard Long-Term Treasury ETF,Bond ETF,NASDAQ,Long-Term Treasury,USD
+BSV,Vanguard Short-Term Bond ETF,Bond ETF,NASDAQ,Short-Term Bond,USD
+BIV,Vanguard Intermediate-Term Bond ETF,Bond ETF,NASDAQ,Intermediate Bond,USD
+BLV,Vanguard Long-Term Bond ETF,Bond ETF,NASDAQ,Long-Term Bond,USD
+LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF,Bond ETF,NASDAQ,Investment Grade,USD
+VCSH,Vanguard Short-Term Corporate Bond ETF,Bond ETF,NASDAQ,Corporate Bond,USD
+IGSB,iShares Short-Term Corporate Bond ETF,Bond ETF,NASDAQ,Corporate Bond,USD
+IGIB,iShares Intermediate-Term Corporate Bond ETF,Bond ETF,NASDAQ,Corporate Bond,USD
+IGOV,iShares International Treasury Bond ETF,Bond ETF,NASDAQ,International Treasury,USD
+HYG,iShares iBoxx $ High Yield Corporate Bond ETF,Bond ETF,NYSEARCA,High Yield,USD
+JNK,SPDR Bloomberg High Yield Bond ETF,Bond ETF,NYSEARCA,High Yield,USD
+USHY,iShares Broad USD High Yield Corporate Bond ETF,Bond ETF,NYSEARCA,High Yield,USD
+ANGL,VanEck Fallen Angel High Yield Bond ETF,Bond ETF,NYSEARCA,High Yield,USD
+FALN,iShares Fallen Angels USD Bond ETF,Bond ETF,NASDAQ,High Yield,USD
+MUB,iShares National Muni Bond ETF,Bond ETF,NYSEARCA,Municipal,USD
+HYD,VanEck High Yield Muni ETF,Bond ETF,NYSEARCA,Municipal High Yield,USD
+VTEB,Vanguard Tax-Exempt Bond ETF,Bond ETF,NYSEARCA,Municipal,USD
+BNDX,Vanguard Total International Bond ETF,Bond ETF,NASDAQ,International Bond,USD
+EMB,iShares J.P. Morgan USD Emerging Markets Bond ETF,Bond ETF,NASDAQ,Emerging Market Bond,USD
+VWOB,Vanguard Emerging Markets Government Bond ETF,Bond ETF,NASDAQ,Emerging Market Bond,USD
+TIPS,iShares TIPS Bond ETF,Bond ETF,NASDAQ,Inflation-Protected,USD
+SCHP,Schwab U.S. TIPS ETF,Bond ETF,NYSEARCA,Inflation-Protected,USD
+VTIP,Vanguard Short-Term Inflation-Protected Securities ETF,Bond ETF,NASDAQ,Inflation-Protected,USD
+PFF,iShares Preferred & Income Securities ETF,Bond ETF,NASDAQ,Preferred Stock,USD
+SJNK,SPDR Bloomberg Short Term High Yield Bond ETF,Bond ETF,NYSEARCA,High Yield,USD
+SHYG,iShares 0-5 Year High Yield Corporate Bond ETF,Bond ETF,NYSEARCA,High Yield,USD
+GLD,SPDR Gold Shares,Commodity ETF,NYSEARCA,Gold,USD
+IAU,iShares Gold Trust,Commodity ETF,NYSEARCA,Gold,USD
+GLDM,SPDR Gold MiniShares Trust,Commodity ETF,NYSEARCA,Gold,USD
+GDX,VanEck Gold Miners ETF,Commodity ETF,NYSEARCA,Gold Miners,USD
+GDXJ,VanEck Junior Gold Miners ETF,Commodity ETF,NYSEARCA,Gold Miners,USD
+SLV,iShares Silver Trust,Commodity ETF,NYSEARCA,Silver,USD
+PPLT,Aberdeen Standard Physical Platinum Shares ETF,Commodity ETF,NYSEARCA,Platinum,USD
+PALL,Aberdeen Standard Physical Palladium Shares ETF,Commodity ETF,NYSEARCA,Palladium,USD
+USO,United States Oil Fund LP,Commodity ETF,NYSEARCA,Crude Oil,USD
+BNO,United States Brent Oil Fund LP,Commodity ETF,NYSEARCA,Crude Oil,USD
+UNG,United States Natural Gas Fund LP,Commodity ETF,NYSEARCA,Natural Gas,USD
+BOIL,ProShares Ultra Bloomberg Natural Gas,Commodity ETF,NYSEARCA,Natural Gas,USD
+PDBC,Invesco Optimum Yield Diversified Commodity Strategy ETF,Commodity ETF,NASDAQ,Diversified Commodities,USD
+DBC,Invesco DB Commodity Index Tracking Fund,Commodity ETF,NYSEARCA,Diversified Commodities,USD
+CPER,United States Copper Index Fund,Commodity ETF,NYSEARCA,Copper,USD
+CORN,Teucrium Corn Fund,Commodity ETF,NYSEARCA,Agricultural,USD
+WEAT,Teucrium Wheat Fund,Commodity ETF,NYSEARCA,Agricultural,USD
+SOYB,Teucrium Soybean Fund,Commodity ETF,NYSEARCA,Agricultural,USD
+ARKK,ARK Innovation ETF,Thematic ETF,NYSEARCA,Disruptive Innovation,USD
+ARKG,ARK Genomic Revolution ETF,Thematic ETF,NYSEARCA,Genomics,USD
+ARKW,ARK Next Generation Internet ETF,Thematic ETF,NYSEARCA,Internet,USD
+ARKF,ARK Fintech Innovation ETF,Thematic ETF,NYSEARCA,FinTech,USD
+ARKQ,ARK Autonomous Technology & Robotics ETF,Thematic ETF,NYSEARCA,Robotics,USD
+BOTZ,Global X Robotics & Artificial Intelligence ETF,Thematic ETF,NASDAQ,Robotics & AI,USD
+ROBO,ROBO Global Robotics and Automation Index ETF,Thematic ETF,NYSEARCA,Robotics,USD
+ICLN,iShares Global Clean Energy ETF,Thematic ETF,NASDAQ,Clean Energy,USD
+TAN,Invesco Solar ETF,Thematic ETF,NYSEARCA,Solar Energy,USD
+PBW,Invesco WilderHill Clean Energy ETF,Thematic ETF,NYSEARCA,Clean Energy,USD
+FAN,First Trust Global Wind Energy ETF,Thematic ETF,NASDAQ,Wind Energy,USD
+ESGV,Vanguard ESG U.S. Stock ETF,Thematic ETF,NYSEARCA,ESG,USD
+ESGU,iShares MSCI USA ESG Select ETF,Thematic ETF,NASDAQ,ESG,USD
+MTUM,iShares MSCI USA Momentum Factor ETF,Thematic ETF,NASDAQ,Momentum Factor,USD
+VLUE,iShares MSCI USA Value Factor ETF,Thematic ETF,NASDAQ,Value Factor,USD
+QUAL,iShares MSCI USA Quality Factor ETF,Thematic ETF,NASDAQ,Quality Factor,USD
+USMV,iShares MSCI USA Min Vol Factor ETF,Thematic ETF,NASDAQ,Low Volatility,USD
+DIVO,Amplify CWP Enhanced Dividend Income ETF,Thematic ETF,NYSEARCA,Dividend,USD
+VIG,Vanguard Dividend Appreciation ETF,Thematic ETF,NYSEARCA,Dividend Growth,USD
+DVY,iShares Select Dividend ETF,Thematic ETF,NASDAQ,High Dividend,USD
+SDY,SPDR S&P Dividend ETF,Thematic ETF,NYSEARCA,High Dividend,USD
+NOBL,ProShares S&P 500 Dividend Aristocrats ETF,Thematic ETF,CBOE,Dividend Aristocrats,USD
+SCHD,Schwab U.S. Dividend Equity ETF,Thematic ETF,NYSEARCA,Dividend,USD
+TQQQ,ProShares UltraPro QQQ,Leveraged ETF,NASDAQ,3x Long NASDAQ-100,USD
+UPRO,ProShares UltraPro S&P500,Leveraged ETF,NYSEARCA,3x Long S&P 500,USD
+SSO,ProShares Ultra S&P500,Leveraged ETF,NYSEARCA,2x Long S&P 500,USD
+SOXL,Direxion Daily Semiconductor Bull 3x Shares,Leveraged ETF,NYSEARCA,3x Long Semiconductors,USD
+TECL,Direxion Daily Technology Bull 3X Shares,Leveraged ETF,NYSEARCA,3x Long Technology,USD
+LABU,Direxion Daily S&P Biotech Bull 3x Shares,Leveraged ETF,NYSEARCA,3x Long Biotech,USD
+SQQQ,ProShares UltraPro Short QQQ,Leveraged ETF,NASDAQ,3x Short NASDAQ-100,USD
+SPXS,Direxion Daily S&P 500 Bear 3X Shares,Leveraged ETF,NYSEARCA,3x Short S&P 500,USD
+TECS,Direxion Daily Technology Bear 3X Shares,Leveraged ETF,NYSEARCA,3x Short Technology,USD
+VXX,iPath Series B S&P 500 VIX Short-Term Futures ETN,Leveraged ETF,CBOE,VIX / Volatility,USD
+UVXY,ProShares Ultra VIX Short-Term Futures ETF,Leveraged ETF,CBOE,2x Long VIX,USD
+SVXY,ProShares Short VIX Short-Term Futures ETF,Leveraged ETF,CBOE,Short VIX,USD
+TMF,Direxion Daily 20+ Year Treasury Bull 3x Shares,Leveraged ETF,NYSEARCA,3x Long Long-Term Treasury,USD
+TMV,Direxion Daily 20+ Year Treasury Bear 3X Shares,Leveraged ETF,NYSEARCA,3x Short Long-Term Treasury,USD
+IBIT,iShares Bitcoin Trust ETF,Crypto ETF,NASDAQ,Bitcoin,USD
+FBTC,Fidelity Wise Origin Bitcoin Fund,Crypto ETF,CBOE,Bitcoin,USD
+GBTC,Grayscale Bitcoin Trust,Crypto ETF,OTCMKTS,Bitcoin,USD
+ETHE,Grayscale Ethereum Trust,Crypto ETF,OTCMKTS,Ethereum,USD
+BITO,ProShares Bitcoin Strategy ETF,Crypto ETF,NYSEARCA,Bitcoin Futures,USD
+AAPL,Apple Inc.,Stock,NASDAQ,Technology,USD
+MSFT,Microsoft Corporation,Stock,NASDAQ,Technology,USD
+NVDA,NVIDIA Corporation,Stock,NASDAQ,Technology,USD
+AVGO,Broadcom Inc.,Stock,NASDAQ,Technology,USD
+ORCL,Oracle Corporation,Stock,NYSE,Technology,USD
+CSCO,Cisco Systems Inc.,Stock,NASDAQ,Technology,USD
+ADBE,Adobe Inc.,Stock,NASDAQ,Technology,USD
+CRM,Salesforce Inc.,Stock,NYSE,Technology,USD
+IBM,International Business Machines Corporation,Stock,NYSE,Technology,USD
+INTC,Intel Corporation,Stock,NASDAQ,Technology,USD
+AMD,Advanced Micro Devices Inc.,Stock,NASDAQ,Technology,USD
+TXN,Texas Instruments Inc.,Stock,NASDAQ,Technology,USD
+QCOM,QUALCOMM Inc.,Stock,NASDAQ,Technology,USD
+ADI,Analog Devices Inc.,Stock,NASDAQ,Technology,USD
+MU,Micron Technology Inc.,Stock,NASDAQ,Technology,USD
+AMAT,Applied Materials Inc.,Stock,NASDAQ,Technology,USD
+LRCX,Lam Research Corporation,Stock,NASDAQ,Technology,USD
+KLAC,KLA Corporation,Stock,NASDAQ,Technology,USD
+MRVL,Marvell Technology Inc.,Stock,NASDAQ,Technology,USD
+NXPI,NXP Semiconductors N.V.,Stock,NASDAQ,Technology,USD
+PANW,Palo Alto Networks Inc.,Stock,NASDAQ,Technology,USD
+CRWD,CrowdStrike Holdings Inc.,Stock,NASDAQ,Technology,USD
+FTNT,Fortinet Inc.,Stock,NASDAQ,Technology,USD
+NOW,ServiceNow Inc.,Stock,NYSE,Technology,USD
+INTU,Intuit Inc.,Stock,NASDAQ,Technology,USD
+SNPS,Synopsys Inc.,Stock,NASDAQ,Technology,USD
+CDNS,Cadence Design Systems Inc.,Stock,NASDAQ,Technology,USD
+ANSS,ANSYS Inc.,Stock,NASDAQ,Technology,USD
+WDAY,Workday Inc.,Stock,NASDAQ,Technology,USD
+DDOG,Datadog Inc.,Stock,NASDAQ,Technology,USD
+SNOW,Snowflake Inc.,Stock,NYSE,Technology,USD
+MDB,MongoDB Inc.,Stock,NASDAQ,Technology,USD
+NET,Cloudflare Inc.,Stock,NYSE,Technology,USD
+ZS,Zscaler Inc.,Stock,NASDAQ,Technology,USD
+OKTA,Okta Inc.,Stock,NASDAQ,Technology,USD
+PLTR,Palantir Technologies Inc.,Stock,NYSE,Technology,USD
+HUBS,HubSpot Inc.,Stock,NYSE,Technology,USD
+DOCU,DocuSign Inc.,Stock,NASDAQ,Technology,USD
+ZM,Zoom Video Communications Inc.,Stock,NASDAQ,Technology,USD
+TWLO,Twilio Inc.,Stock,NYSE,Technology,USD
+HOOD,Robinhood Markets Inc.,Stock,NASDAQ,Technology,USD
+RBLX,Roblox Corporation,Stock,NYSE,Technology,USD
+U,Unity Software Inc.,Stock,NYSE,Technology,USD
+GOOGL,Alphabet Inc. Class A,Stock,NASDAQ,Communication Services,USD
+GOOG,Alphabet Inc. Class C,Stock,NASDAQ,Communication Services,USD
+META,Meta Platforms Inc.,Stock,NASDAQ,Communication Services,USD
+NFLX,Netflix Inc.,Stock,NASDAQ,Communication Services,USD
+DIS,The Walt Disney Company,Stock,NYSE,Communication Services,USD
+CMCSA,Comcast Corporation,Stock,NASDAQ,Communication Services,USD
+T,AT&T Inc.,Stock,NYSE,Communication Services,USD
+VZ,Verizon Communications Inc.,Stock,NYSE,Communication Services,USD
+TMUS,T-Mobile US Inc.,Stock,NASDAQ,Communication Services,USD
+SNAP,Snap Inc.,Stock,NYSE,Communication Services,USD
+PINS,Pinterest Inc.,Stock,NYSE,Communication Services,USD
+SPOT,Spotify Technology S.A.,Stock,NYSE,Communication Services,USD
+MTCH,Match Group Inc.,Stock,NASDAQ,Communication Services,USD
+WBD,Warner Bros. Discovery Inc.,Stock,NASDAQ,Communication Services,USD
+PARA,Paramount Global,Stock,NASDAQ,Communication Services,USD
+EA,Electronic Arts Inc.,Stock,NASDAQ,Communication Services,USD
+TTWO,Take-Two Interactive Software Inc.,Stock,NASDAQ,Communication Services,USD
+AMZN,Amazon.com Inc.,Stock,NASDAQ,Consumer Discretionary,USD
+TSLA,Tesla Inc.,Stock,NASDAQ,Consumer Discretionary,USD
+HD,The Home Depot Inc.,Stock,NYSE,Consumer Discretionary,USD
+MCD,McDonald's Corporation,Stock,NYSE,Consumer Discretionary,USD
+NKE,NIKE Inc.,Stock,NYSE,Consumer Discretionary,USD
+SBUX,Starbucks Corporation,Stock,NASDAQ,Consumer Discretionary,USD
+TJX,TJX Companies Inc.,Stock,NYSE,Consumer Discretionary,USD
+BKNG,Booking Holdings Inc.,Stock,NASDAQ,Consumer Discretionary,USD
+LOW,Lowe's Companies Inc.,Stock,NYSE,Consumer Discretionary,USD
+TGT,Target Corporation,Stock,NYSE,Consumer Discretionary,USD
+ABNB,Airbnb Inc.,Stock,NASDAQ,Consumer Discretionary,USD
+UBER,Uber Technologies Inc.,Stock,NYSE,Consumer Discretionary,USD
+LYFT,Lyft Inc.,Stock,NASDAQ,Consumer Discretionary,USD
+DKNG,DraftKings Inc.,Stock,NASDAQ,Consumer Discretionary,USD
+PTON,Peloton Interactive Inc.,Stock,NASDAQ,Consumer Discretionary,USD
+CHWY,Chewy Inc.,Stock,NYSE,Consumer Discretionary,USD
+ETSY,Etsy Inc.,Stock,NASDAQ,Consumer Discretionary,USD
+W,Wayfair Inc.,Stock,NYSE,Consumer Discretionary,USD
+RIVN,Rivian Automotive Inc.,Stock,NASDAQ,Consumer Discretionary,USD
+LCID,Lucid Group Inc.,Stock,NASDAQ,Consumer Discretionary,USD
+GM,General Motors Company,Stock,NYSE,Consumer Discretionary,USD
+F,Ford Motor Company,Stock,NYSE,Consumer Discretionary,USD
+RACE,Ferrari N.V.,Stock,NYSE,Consumer Discretionary,USD
+PG,Procter & Gamble Co.,Stock,NYSE,Consumer Staples,USD
+KO,The Coca-Cola Company,Stock,NYSE,Consumer Staples,USD
+PEP,PepsiCo Inc.,Stock,NASDAQ,Consumer Staples,USD
+COST,Costco Wholesale Corporation,Stock,NASDAQ,Consumer Staples,USD
+WMT,Walmart Inc.,Stock,NYSE,Consumer Staples,USD
+PM,Philip Morris International Inc.,Stock,NYSE,Consumer Staples,USD
+MO,Altria Group Inc.,Stock,NYSE,Consumer Staples,USD
+MDLZ,Mondelez International Inc.,Stock,NASDAQ,Consumer Staples,USD
+CL,Colgate-Palmolive Company,Stock,NYSE,Consumer Staples,USD
+KHC,The Kraft Heinz Company,Stock,NASDAQ,Consumer Staples,USD
+KMB,Kimberly-Clark Corporation,Stock,NYSE,Consumer Staples,USD
+GIS,General Mills Inc.,Stock,NYSE,Consumer Staples,USD
+HSY,The Hershey Company,Stock,NYSE,Consumer Staples,USD
+STZ,Constellation Brands Inc.,Stock,NYSE,Consumer Staples,USD
+TAP,Molson Coors Beverage Company,Stock,NYSE,Consumer Staples,USD
+SYY,Sysco Corporation,Stock,NYSE,Consumer Staples,USD
+UNH,UnitedHealth Group Inc.,Stock,NYSE,Health Care,USD
+LLY,Eli Lilly and Company,Stock,NYSE,Health Care,USD
+ABBV,AbbVie Inc.,Stock,NYSE,Health Care,USD
+MRK,Merck & Co. Inc.,Stock,NYSE,Health Care,USD
+TMO,Thermo Fisher Scientific Inc.,Stock,NYSE,Health Care,USD
+ABT,Abbott Laboratories,Stock,NYSE,Health Care,USD
+DHR,Danaher Corporation,Stock,NYSE,Health Care,USD
+AMGN,Amgen Inc.,Stock,NASDAQ,Health Care,USD
+GILD,Gilead Sciences Inc.,Stock,NASDAQ,Health Care,USD
+ISRG,Intuitive Surgical Inc.,Stock,NASDAQ,Health Care,USD
+SYK,Stryker Corporation,Stock,NYSE,Health Care,USD
+BSX,Boston Scientific Corporation,Stock,NYSE,Health Care,USD
+BDX,Becton Dickinson and Company,Stock,NYSE,Health Care,USD
+ZTS,Zoetis Inc.,Stock,NYSE,Health Care,USD
+REGN,Regeneron Pharmaceuticals Inc.,Stock,NASDAQ,Health Care,USD
+VRTX,Vertex Pharmaceuticals Inc.,Stock,NASDAQ,Health Care,USD
+BIIB,Biogen Inc.,Stock,NASDAQ,Health Care,USD
+HUM,Humana Inc.,Stock,NYSE,Health Care,USD
+CI,The Cigna Group,Stock,NYSE,Health Care,USD
+ELV,Elevance Health Inc.,Stock,NYSE,Health Care,USD
+CVS,CVS Health Corporation,Stock,NYSE,Health Care,USD
+MRNA,Moderna Inc.,Stock,NASDAQ,Health Care,USD
+BNTX,BioNTech SE ADR,Stock,NASDAQ,Health Care,USD
+PFE,Pfizer Inc.,Stock,NYSE,Health Care,USD
+JNJ,Johnson & Johnson,Stock,NYSE,Health Care,USD
+BMY,Bristol-Myers Squibb Company,Stock,NYSE,Health Care,USD
+NVO,Novo Nordisk A/S ADR,Stock,NYSE,Health Care,USD
+JPM,JPMorgan Chase & Co.,Stock,NYSE,Financials,USD
+BAC,Bank of America Corporation,Stock,NYSE,Financials,USD
+WFC,Wells Fargo & Company,Stock,NYSE,Financials,USD
+GS,The Goldman Sachs Group Inc.,Stock,NYSE,Financials,USD
+MS,Morgan Stanley,Stock,NYSE,Financials,USD
+C,Citigroup Inc.,Stock,NYSE,Financials,USD
+USB,U.S. Bancorp,Stock,NYSE,Financials,USD
+PNC,PNC Financial Services Group Inc.,Stock,NYSE,Financials,USD
+TFC,Truist Financial Corporation,Stock,NYSE,Financials,USD
+SCHW,Charles Schwab Corporation,Stock,NYSE,Financials,USD
+BLK,BlackRock Inc.,Stock,NYSE,Financials,USD
+SPGI,S&P Global Inc.,Stock,NYSE,Financials,USD
+MCO,Moody's Corporation,Stock,NYSE,Financials,USD
+ICE,Intercontinental Exchange Inc.,Stock,NYSE,Financials,USD
+CME,CME Group Inc.,Stock,NASDAQ,Financials,USD
+CB,Chubb Limited,Stock,NYSE,Financials,USD
+PGR,Progressive Corporation,Stock,NYSE,Financials,USD
+MMC,Marsh & McLennan Companies Inc.,Stock,NYSE,Financials,USD
+AXP,American Express Company,Stock,NYSE,Financials,USD
+V,Visa Inc.,Stock,NYSE,Financials,USD
+MA,Mastercard Inc.,Stock,NYSE,Financials,USD
+PYPL,PayPal Holdings Inc.,Stock,NASDAQ,Financials,USD
+SQ,Block Inc.,Stock,NYSE,Financials,USD
+COIN,Coinbase Global Inc.,Stock,NASDAQ,Financials,USD
+SOFI,SoFi Technologies Inc.,Stock,NASDAQ,Financials,USD
+AFRM,Affirm Holdings Inc.,Stock,NASDAQ,Financials,USD
+UPST,Upstart Holdings Inc.,Stock,NASDAQ,Financials,USD
+GE,GE Aerospace,Stock,NYSE,Industrials,USD
+CAT,Caterpillar Inc.,Stock,NYSE,Industrials,USD
+BA,The Boeing Company,Stock,NYSE,Industrials,USD
+HON,Honeywell International Inc.,Stock,NASDAQ,Industrials,USD
+RTX,RTX Corporation,Stock,NYSE,Industrials,USD
+LMT,Lockheed Martin Corporation,Stock,NYSE,Industrials,USD
+NOC,Northrop Grumman Corporation,Stock,NYSE,Industrials,USD
+GD,General Dynamics Corporation,Stock,NYSE,Industrials,USD
+DE,Deere & Company,Stock,NYSE,Industrials,USD
+ETN,Eaton Corporation plc,Stock,NYSE,Industrials,USD
+EMR,Emerson Electric Co.,Stock,NYSE,Industrials,USD
+ITW,Illinois Tool Works Inc.,Stock,NASDAQ,Industrials,USD
+PH,Parker Hannifin Corporation,Stock,NYSE,Industrials,USD
+ROK,Rockwell Automation Inc.,Stock,NYSE,Industrials,USD
+FDX,FedEx Corporation,Stock,NYSE,Industrials,USD
+UPS,United Parcel Service Inc.,Stock,NYSE,Industrials,USD
+CSX,CSX Corporation,Stock,NASDAQ,Industrials,USD
+UNP,Union Pacific Corporation,Stock,NYSE,Industrials,USD
+NSC,Norfolk Southern Corporation,Stock,NYSE,Industrials,USD
+WM,Waste Management Inc.,Stock,NYSE,Industrials,USD
+RSG,Republic Services Inc.,Stock,NYSE,Industrials,USD
+XOM,Exxon Mobil Corporation,Stock,NYSE,Energy,USD
+CVX,Chevron Corporation,Stock,NYSE,Energy,USD
+SLB,SLB,Stock,NYSE,Energy,USD
+EOG,EOG Resources Inc.,Stock,NYSE,Energy,USD
+COP,ConocoPhillips,Stock,NYSE,Energy,USD
+OXY,Occidental Petroleum Corporation,Stock,NYSE,Energy,USD
+MPC,Marathon Petroleum Corporation,Stock,NYSE,Energy,USD
+PSX,Phillips 66,Stock,NYSE,Energy,USD
+VLO,Valero Energy Corporation,Stock,NYSE,Energy,USD
+DVN,Devon Energy Corporation,Stock,NYSE,Energy,USD
+HAL,Halliburton Company,Stock,NYSE,Energy,USD
+BKR,Baker Hughes Company,Stock,NASDAQ,Energy,USD
+KMI,Kinder Morgan Inc.,Stock,NYSE,Energy,USD
+WMB,Williams Companies Inc.,Stock,NYSE,Energy,USD
+LIN,Linde plc,Stock,NYSE,Materials,USD
+APD,Air Products and Chemicals Inc.,Stock,NYSE,Materials,USD
+SHW,Sherwin-Williams Company,Stock,NYSE,Materials,USD
+ECL,Ecolab Inc.,Stock,NYSE,Materials,USD
+NEM,Newmont Corporation,Stock,NYSE,Materials,USD
+FCX,Freeport-McMoRan Inc.,Stock,NYSE,Materials,USD
+NUE,Nucor Corporation,Stock,NYSE,Materials,USD
+VMC,Vulcan Materials Company,Stock,NYSE,Materials,USD
+MLM,Martin Marietta Materials Inc.,Stock,NYSE,Materials,USD
+IP,International Paper Company,Stock,NYSE,Materials,USD
+PLD,Prologis Inc.,Stock,NYSE,Real Estate,USD
+AMT,American Tower Corporation,Stock,NYSE,Real Estate,USD
+EQIX,Equinix Inc.,Stock,NASDAQ,Real Estate,USD
+CCI,Crown Castle Inc.,Stock,NYSE,Real Estate,USD
+SPG,Simon Property Group Inc.,Stock,NYSE,Real Estate,USD
+PSA,Public Storage,Stock,NYSE,Real Estate,USD
+O,Realty Income Corporation,Stock,NYSE,Real Estate,USD
+WELL,Welltower Inc.,Stock,NYSE,Real Estate,USD
+DLR,Digital Realty Trust Inc.,Stock,NYSE,Real Estate,USD
+AVB,AvalonBay Communities Inc.,Stock,NYSE,Real Estate,USD
+EQR,Equity Residential,Stock,NYSE,Real Estate,USD
+NEE,NextEra Energy Inc.,Stock,NYSE,Utilities,USD
+SO,Southern Company,Stock,NYSE,Utilities,USD
+DUK,Duke Energy Corporation,Stock,NYSE,Utilities,USD
+D,Dominion Energy Inc.,Stock,NYSE,Utilities,USD
+SRE,Sempra,Stock,NYSE,Utilities,USD
+AEP,American Electric Power Company Inc.,Stock,NASDAQ,Utilities,USD
+EXC,Exelon Corporation,Stock,NASDAQ,Utilities,USD
+XEL,Xcel Energy Inc.,Stock,NASDAQ,Utilities,USD
+ED,Consolidated Edison Inc.,Stock,NYSE,Utilities,USD
+AWK,American Water Works Company Inc.,Stock,NYSE,Utilities,USD
+SHOP,Shopify Inc.,Stock,NYSE,E-Commerce,USD
+MELI,MercadoLibre Inc.,Stock,NASDAQ,E-Commerce,USD
+SE,Sea Limited ADR,Stock,NYSE,E-Commerce,USD
+JD,JD.com Inc. ADR,Stock,NASDAQ,E-Commerce,USD
+BABA,Alibaba Group Holding Limited ADR,Stock,NYSE,E-Commerce,USD
+PDD,PDD Holdings Inc. ADR,Stock,NASDAQ,E-Commerce,USD
+TSM,Taiwan Semiconductor Manufacturing ADR,Stock,NYSE,International,USD
+ASML,ASML Holding N.V. ADR,Stock,NASDAQ,International,USD
+SAP,SAP SE ADR,Stock,NYSE,International,USD
+TM,Toyota Motor Corporation ADR,Stock,NYSE,International,USD
+SONY,Sony Group Corporation ADR,Stock,NYSE,International,USD
+ARM,Arm Holdings plc,Stock,NASDAQ,International,USD
+RIO,Rio Tinto plc ADR,Stock,NYSE,International,USD
+BP,BP p.l.c. ADR,Stock,NYSE,International,USD
+SHEL,Shell plc ADR,Stock,NYSE,International,USD

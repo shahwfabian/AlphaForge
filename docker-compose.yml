@@ -1,0 +1,72 @@
+services:
+
+  # ── AlphaForge Dashboard ────────────────────────────────────────────────────
+  alphaforge:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: runtime
+    image: alphaforge:latest
+    container_name: alphaforge_app
+
+    ports:
+      - "8501:8501"
+
+    volumes:
+      # Persist raw market data cache and SQLite DB between restarts.
+      # Remove these mounts if you want a fully ephemeral container.
+      - alphaforge_data:/app/data
+      - alphaforge_exports:/app/exports
+
+    environment:
+      - PYTHONUNBUFFERED=1
+      - PYTHONDONTWRITEBYTECODE=1
+      # Set to 'production' to disable debug logging
+      - ALPHAFORGE_ENV=production
+
+    healthcheck:
+      test:
+        - CMD
+        - python
+        - -c
+        - "import urllib.request; urllib.request.urlopen('http://localhost:8501/_stcore/health')"
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 20s
+
+    restart: unless-stopped
+
+    # Resource limits — adjust for your host machine
+    deploy:
+      resources:
+        limits:
+          memory: 2G
+          cpus: "2.0"
+        reservations:
+          memory: 512M
+          cpus: "0.5"
+
+
+  # ── Optional: Jupyter Notebook for exploratory research ───────────────────
+  # jupyter:
+  #   build:
+  #     context: .
+  #     dockerfile: Dockerfile
+  #     target: builder
+  #   image: alphaforge:notebook
+  #   container_name: alphaforge_jupyter
+  #   ports:
+  #     - "8888:8888"
+  #   volumes:
+  #     - .:/app
+  #   command: >
+  #     bash -c "pip install jupyter &&
+  #              jupyter notebook --ip=0.0.0.0 --no-browser --allow-root --port=8888"
+
+
+volumes:
+  alphaforge_data:
+    driver: local
+  alphaforge_exports:
+    driver: local
